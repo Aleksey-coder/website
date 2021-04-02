@@ -1,7 +1,7 @@
 $(window).on('load', function(){
 
-    img.js - video background
-    $('#header').vide('./video/coverr', {
+    //vede.js - video background
+    $('#header').vide('./img/coverr', {
         bgColor: '#fafafa'
     }); 
 
